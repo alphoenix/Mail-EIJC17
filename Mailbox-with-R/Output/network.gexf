@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2017-05-20">
+    <creator>NodosChile</creator>
+    <description>A graph file writing in R using "rgexf"</description>
+    <keywords>gexf graph, NodosChile, R, rgexf</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <nodes>
+      <node id="1" label="noreply@caisse-epargne.fr"/>
+      <node id="2" label="noreply-eab382f5@plus.google.com"/>
+      <node id="3" label="adrienne@twowheelsworld.com"/>
+      <node id="4" label="annonce@amazon.fr"/>
+      <node id="5" label="pix_news@mail.pixmania.fr"/>
+      <node id="6" label="vgrau@xtec.cat"/>
+      <node id="7" label="contact@agoji.com"/>
+      <node id="8" label="webmaster@triumphadonf.com"/>
+      <node id="9" label="mydesign@bonplan.mydesign.com"/>
+      <node id="10" label="news@e.a1-ccamail.com"/>
+      <node id="11" label="herve.letoqueux@free.fr"/>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="11" weight="1"/>
+      <edge id="1" source="1" target="11" weight="1"/>
+      <edge id="2" source="1" target="11" weight="1"/>
+      <edge id="3" source="1" target="11" weight="1"/>
+      <edge id="4" source="1" target="11" weight="1"/>
+      <edge id="5" source="1" target="11" weight="1"/>
+      <edge id="6" source="1" target="11" weight="1"/>
+      <edge id="7" source="1" target="11" weight="1"/>
+      <edge id="8" source="1" target="11" weight="1"/>
+      <edge id="9" source="1" target="11" weight="1"/>
+      <edge id="10" source="1" target="11" weight="1"/>
+      <edge id="11" source="1" target="11" weight="1"/>
+      <edge id="12" source="1" target="11" weight="1"/>
+      <edge id="13" source="1" target="11" weight="1"/>
+      <edge id="14" source="1" target="11" weight="1"/>
+      <edge id="15" source="1" target="11" weight="1"/>
+      <edge id="16" source="1" target="11" weight="1"/>
+      <edge id="17" source="1" target="11" weight="1"/>
+      <edge id="18" source="1" target="11" weight="1"/>
+      <edge id="19" source="1" target="11" weight="1"/>
+      <edge id="20" source="1" target="11" weight="1"/>
+      <edge id="21" source="1" target="11" weight="1"/>
+      <edge id="22" source="1" target="11" weight="1"/>
+      <edge id="23" source="1" target="11" weight="1"/>
+      <edge id="24" source="1" target="11" weight="1"/>
+      <edge id="25" source="1" target="11" weight="1"/>
+      <edge id="26" source="1" target="11" weight="1"/>
+      <edge id="27" source="1" target="11" weight="1"/>
+      <edge id="28" source="1" target="11" weight="1"/>
+      <edge id="29" source="1" target="11" weight="1"/>
+      <edge id="30" source="1" target="11" weight="1"/>
+      <edge id="31" source="1" target="11" weight="1"/>
+      <edge id="32" source="1" target="11" weight="1"/>
+      <edge id="33" source="1" target="11" weight="1"/>
+      <edge id="34" source="1" target="11" weight="1"/>
+      <edge id="35" source="1" target="11" weight="1"/>
+      <edge id="36" source="1" target="11" weight="1"/>
+      <edge id="37" source="1" target="11" weight="1"/>
+      <edge id="38" source="1" target="11" weight="1"/>
+      <edge id="39" source="1" target="11" weight="1"/>
+      <edge id="40" source="1" target="11" weight="1"/>
+      <edge id="41" source="1" target="11" weight="1"/>
+      <edge id="42" source="1" target="11" weight="1"/>
+      <edge id="43" source="1" target="11" weight="1"/>
+      <edge id="44" source="1" target="11" weight="1"/>
+      <edge id="45" source="1" target="11" weight="1"/>
+      <edge id="46" source="1" target="11" weight="1"/>
+      <edge id="47" source="1" target="11" weight="1"/>
+      <edge id="48" source="1" target="11" weight="1"/>
+      <edge id="49" source="1" target="11" weight="1"/>
+      <edge id="50" source="1" target="11" weight="1"/>
+      <edge id="51" source="1" target="11" weight="1"/>
+      <edge id="52" source="1" target="11" weight="1"/>
+      <edge id="53" source="1" target="11" weight="1"/>
+      <edge id="54" source="1" target="11" weight="1"/>
+      <edge id="55" source="1" target="11" weight="1"/>
+      <edge id="56" source="2" target="11" weight="1"/>
+      <edge id="57" source="3" target="11" weight="1"/>
+      <edge id="58" source="4" target="11" weight="1"/>
+      <edge id="59" source="5" target="11" weight="1"/>
+      <edge id="60" source="6" target="11" weight="1"/>
+      <edge id="61" source="7" target="11" weight="1"/>
+      <edge id="62" source="8" target="11" weight="1"/>
+      <edge id="63" source="9" target="11" weight="1"/>
+      <edge id="64" source="9" target="11" weight="1"/>
+      <edge id="65" source="10" target="11" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
+

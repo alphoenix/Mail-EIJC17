@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1223.8418"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-528.000000 -631.000000 1223.841797 1159.000000" height="1159.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.7256255"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M 497.029877,-497.029877 C 497.029846,-99.405930 -99.405930,497.029846 -497.029877,497.029877"
+              class="Bernard Squarcini Julien Cariou von Saint-George"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M 497.029877,-497.029877 C 695.841797,-298.217926 695.841797,298.217926 497.029877,497.029877"
+              class="Bernard Squarcini Charles Pellegrini" stroke-opacity="1.0"
+              stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M 497.029877,-497.029877 C 298.217926,-298.217926 -298.217926,-298.217926 -497.029877,-497.029877"
+              class="Bernard Squarcini Laurent Obadia" stroke-opacity="1.0"
+              stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M 497.029877,-497.029877 C 298.217926,-298.217926 -298.217926,-298.217926 -497.029877,-497.029877"
+              class="Bernard Squarcini Laurent Obadia" stroke-opacity="1.0"
+              stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M 497.029877,-497.029877 C 497.029846,-99.405930 -99.405930,497.029846 -497.029877,497.029877"
+              class="Bernard Squarcini Julien Cariou von Saint-George"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="0.7256255"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.451251"
+              d="M -497.029877,497.029877 C -497.029846,99.405930 99.405930,-497.029846 497.029877,-497.029877"
+              class="Julien Cariou von Saint-George Bernard Squarcini"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#a99c88" r="30.0" cx="-497.02988"
+                class="Julien Cariou von Saint-George" cy="497.02988"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="0.7256255"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="133.5" cx="497.02988"
+                class="Bernard Squarcini" cy="-497.02988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.7256255"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="30.0" cx="497.02988"
+                class="Charles Pellegrini" cy="497.02988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.7256255"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="30.0" cx="-497.02988"
+                class="Laurent Obadia" cy="-497.02988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.7256255"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="-497.02988" y="508.2916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Julien Cariou von Saint-George">
+            Julien Cariou von Saint-George - JCvSG
+        </text>
+        <text font-size="48" x="497.02988" y="-485.90878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bernard Squarcini">
+            Bernard Squarcini - BS
+        </text>
+        <text font-size="48" x="497.02988" y="508.2916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Charles Pellegrini">
+            Charles Pellegrini - CP
+        </text>
+        <text font-size="48" x="-497.02988" y="-488.1412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Laurent Obadia">
+            Laurent Obadia - LO
+        </text>
+    </g>
+</svg>

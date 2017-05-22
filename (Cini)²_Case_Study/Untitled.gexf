@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-05-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="Degré Entrant" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Degré Sortant" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degré" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="sujet" title="sujet" type="string"></attribute>
+      <attribute id="to" title="to" type="string"></attribute>
+      <attribute id="cc" title="cc" type="string"></attribute>
+      <attribute id="date" title="date" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Julien Cariou von Saint-George" label="JCvSG">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-497.02988" y="-497.02988"></viz:position>
+        <viz:color r="169" g="156" b="136"></viz:color>
+      </node>
+      <node id="Bernard Squarcini" label="BS">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="133.5"></viz:size>
+        <viz:position x="497.02988" y="497.02988"></viz:position>
+        <viz:color r="169" g="156" b="136"></viz:color>
+      </node>
+      <node id="Charles Pellegrini" label="CP">
+        <attvalues>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="497.02988" y="-497.02988"></viz:position>
+        <viz:color r="169" g="156" b="136"></viz:color>
+      </node>
+      <node id="Laurent Obadia" label="LO">
+        <attvalues>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-497.02988" y="497.02988"></viz:position>
+        <viz:color r="169" g="156" b="136"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Julien Cariou von Saint-George" target="Bernard Squarcini">
+        <attvalues>
+          <attvalue for="sujet" value="FW: Factures Kyrnos avril 2015"></attvalue>
+          <attvalue for="to" value="Bernard Squarcini"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="28 avr. 2015 √† 16:29"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="Julien Cariou von Saint-George" target="Bernard Squarcini">
+        <attvalues>
+          <attvalue for="sujet" value="RE: FW:"></attvalue>
+          <attvalue for="to" value="Bernard Squarcini"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="17 juil. 2014 √† 17:17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="Julien Cariou von Saint-George" target="Bernard Squarcini">
+        <attvalues>
+          <attvalue for="sujet" value="Re: Dossier kazakh"></attvalue>
+          <attvalue for="to" value="Bernard Squarcini"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="4 nov. 2013 √† 12:19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="Bernard Squarcini" target="Julien Cariou von Saint-George">
+        <attvalues>
+          <attvalue for="sujet" value="201410140933.pdf"></attvalue>
+          <attvalue for="to" value="Julien Cariou von Saint-George"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="14 oct. 2014 √† 10:01"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="Bernard Squarcini" target="Charles Pellegrini">
+        <attvalues>
+          <attvalue for="sujet" value="ABLYAZOV"></attvalue>
+          <attvalue for="to" value="Charles Pellegrini"></attvalue>
+          <attvalue for="cc" value="Laurent Obadia"></attvalue>
+          <attvalue for="date" value="9 nov. 2013 √† 15:16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="Bernard Squarcini" target="Laurent Obadia">
+        <attvalues>
+          <attvalue for="sujet" value="ABLYAZOV"></attvalue>
+          <attvalue for="to" value=""></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="9 nov. 2013 √† 15:16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="Bernard Squarcini" target="Laurent Obadia">
+        <attvalues>
+          <attvalue for="sujet" value="ABLYAZOV"></attvalue>
+          <attvalue for="to" value=""></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="9 nov. 2013 √† 15:16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="Bernard Squarcini" target="Julien Cariou von Saint-George">
+        <attvalues>
+          <attvalue for="sujet" value="Analyse sur l'affaire kazakh"></attvalue>
+          <attvalue for="to" value="Julien Cariou von Saint-George"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="6 sept. 2013 √† 10:36"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Julien Cariou von Saint-George" target="Bernard Squarcini">
+        <attvalues>
+          <attvalue for="sujet" value="Analyse sur l'affaire kazakh"></attvalue>
+          <attvalue for="to" value="Bernard Squarcini"></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="24 oct. 2014 √† 16:03"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="Julien Cariou von Saint-George" target="Bernard Squarcini">
+        <attvalues>
+          <attvalue for="sujet" value="Arcanum - Imangali Tasmagambetov - Biographie"></attvalue>
+          <attvalue for="to" value="Bernard Squarcini"></attvalue>
+          <attvalue for="cc" value="Bernard Squarcini"></attvalue>
+          <attvalue for="date" value="16 juin 2014 √† 17:22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="Julien Cariou von Saint-George" target="Bernard Squarcini" weight="2.0">
+        <attvalues>
+          <attvalue for="sujet" value="Arcanum - Imangali Tasmagambetov - Biographie"></attvalue>
+          <attvalue for="to" value=""></attvalue>
+          <attvalue for="cc" value=""></attvalue>
+          <attvalue for="date" value="16 juin 2014 √† 17:22"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
